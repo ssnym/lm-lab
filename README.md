@@ -10,6 +10,21 @@ Work with :
 - Implement from Scratch
 
 
+LLM Training Pipeline : 
+- Raw Data
+- Tokenizer
+- Tokenized Dataset
+- Data Sampling (dataloader)      
+    ├─────── random sampling (GPT)  
+	├─────── sliding window  
+	└─────── packed sequences  
+- Model
+- Loss Function
+- Training Loop
+- Validation Loop
+- Checkpointing
+- Inference / Generation
+
 *Acknowledgements*
 - Andrej Karpathy 
 
