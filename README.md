@@ -8,6 +8,7 @@ Work with :
 - Language Models
 - Run Experimentations
 - Implement from Scratch
+- Pytorch Modules
 
 
 LLM Training Pipeline : 
