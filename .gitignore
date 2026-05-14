@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+
+data/
+
+z-tasks.md
+
+*.pyc
