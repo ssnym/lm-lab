@@ -1,8 +1,8 @@
 .vscode/
 __pycache__/
+*.pyc
 
 data/
 
-z-tasks.md
 
-*.pyc
+z*
