@@ -193,8 +193,6 @@ class Tokenizer:
         )+')'
         parts = stdlib_re.split(special_pattern, text)
 
-        print(parts)
-
         tokens = []
         for part in parts:
             if  part in self.special_tokens:
